@@ -3,3 +3,5 @@
 
 Repo of me scraping said website:
 https://github.com/professional-tdi/scraping-reviews
+
+Now on vercel
